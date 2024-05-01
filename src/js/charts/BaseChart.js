@@ -223,7 +223,7 @@ export default class BaseChart {
 
 		this.svg = makeSVGContainer(
 			this.container,
-			"frappe-chart chart",
+			"k3_kt_com-chart chart",
 			this.baseWidth,
 			this.baseHeight
 		);
