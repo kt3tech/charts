@@ -13,7 +13,7 @@ export default [
     input: "src/js/index.js",
     output: {
       sourcemap: true,
-      name: "frappe",
+      name: "k3_kt_com",
       file: pkg.browser,
       format: "umd",
     },
@@ -23,7 +23,7 @@ export default [
         exclude: ["node_modules/**"],
       }),
       terser(),
-      scss({ output: "dist/frappe-charts.min.css" }),
+      scss({ output: "dist/k3_kt_com-charts.min.css" }),
       bundleSize(),
     ],
   },
