@@ -6,7 +6,7 @@ SRCDIR									= $(BASEDIR)/src
 DISTDIR									= $(BASEDIR)/dist
 DOCSDIR									= $(BASEDIR)/docs
 
-PROJECT									= frappe-charts
+PROJECT									= k3_kt_com-charts
 
 NODEMOD									= $(BASEDIR)/node_modules
 NODEBIN									= $(NODEMOD)/.bin
