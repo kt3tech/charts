@@ -9,7 +9,7 @@ import demoConfig from './demoConfig';
 // import { lineComposite, barComposite } from './demoConfig';
 // ================================================================================
 
-let Chart = frappe.Chart; // eslint-disable-line no-undef
+let Chart = k3_kt_com.Chart; // eslint-disable-line no-undef
 
 let lc = demoConfig.lineComposite;
 let lineCompositeChart = new Chart (lc.elementID, lc.options);
