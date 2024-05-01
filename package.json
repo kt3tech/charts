@@ -1,13 +1,13 @@
 {
-	"name": "frappe-charts",
+	"name": "k3_kt_com-charts",
 	"version": "v1.6.3",
 	"type": "module",
-	"main": "dist/frappe-charts.esm.js",
-	"module": "dist/frappe-charts.esm.js",
-	"browser": "dist/frappe-charts.umd.js",
-	"common": "dist/frappe-charts.cjs.js",
-	"unnpkg": "dist/frappe-charts.umd.js",
-	"description": "https://frappe.github.io/charts",
+	"main": "dist/k3_kt_com-charts.esm.js",
+	"module": "dist/k3_kt_com-charts.esm.js",
+	"browser": "dist/k3_kt_com-charts.umd.js",
+	"common": "dist/k3_kt_com-charts.cjs.js",
+	"unnpkg": "dist/k3_kt_com-charts.umd.js",
+	"description": "https://k3_kt_com.github.io/charts",
 	"directories": {
 		"doc": "docs"
 	},
@@ -23,7 +23,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/frappe/charts.git"
+		"url": "git+https://github.com/kt3tech/charts.git"
 	},
 	"keywords": [
 		"js",
@@ -32,9 +32,9 @@
 	"author": "Prateeksha Singh",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/frappe/charts/issues"
+		"url": "https://github.com/kt3tech/charts/issues"
 	},
-	"homepage": "https://github.com/frappe/charts#readme",
+	"homepage": "https://github.com/kt3tech/charts#readme",
 	"devDependencies": {
 		"@babel/core": "^7.10.5",
 		"@babel/preset-env": "^7.10.4",
