@@ -1,10 +1,10 @@
 import * as Charts from "./chart";
 
-let frappe = {};
+let k3_kt_com = {};
 
-frappe.NAME = "Frappe Charts";
-frappe.VERSION = "1.6.2";
+k3_kt_com.NAME = "K3_kt_com Charts";
+k3_kt_com.VERSION = "1.6.2";
 
-frappe = Object.assign({}, frappe, Charts);
+k3_kt_com = Object.assign({}, k3_kt_com, Charts);
 
-export default frappe;
+export default k3_kt_com;
